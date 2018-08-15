@@ -1,0 +1,86 @@
+
+		Wed Aug 15 2018
+18:21:01 OpenLink Virtuoso Universal Server
+18:21:01 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+18:21:01 uses parts of OpenSSL, PCRE, Html Tidy
+18:21:01 SQL Optimizer enabled (max 1000 layouts)
+18:21:02 Compiler unit is timed at 0.000327 msec
+18:21:04 Checkpoint started
+18:21:04 Roll forward started
+18:21:04 Roll forward complete
+18:21:04 Checkpoint started
+18:21:04 Checkpoint finished, log reused
+18:21:04 Checkpoint started
+18:21:04 Checkpoint finished, log reused
+18:21:05 Checkpoint started
+18:21:05 Checkpoint finished, log reused
+18:21:06 Checkpoint started
+18:21:06 Checkpoint finished, log reused
+18:21:06 Checkpoint started
+18:21:06 Checkpoint finished, log reused
+18:21:06 PL LOG: Installing Virtuoso Conductor version 1.00.8754 (DAV)
+18:21:06 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8754/2017-11-15 13:45 (DAV)
+18:21:06 Checkpoint started
+18:21:06 Checkpoint finished, log reused
+18:21:08 Checkpoint started
+18:21:08 Checkpoint finished, log reused
+18:21:08 PL LOG: Installation with dependencies complete
+18:21:08 Checkpoint started
+18:21:08 Checkpoint finished, log reused
+18:21:08 HTTP/WebDAV server online at 27015
+18:21:08 Server online at 1111 (pid 22)
+18:21:08 Server received signal 15
+18:21:08 Initiating quick shutdown
+18:21:08 Server shutdown complete
+
+		Wed Aug 15 2018
+18:21:08 OpenLink Virtuoso Universal Server
+18:21:08 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+18:21:08 uses parts of OpenSSL, PCRE, Html Tidy
+18:21:08 Database version 3126
+18:21:08 SQL Optimizer enabled (max 1000 layouts)
+18:21:09 Compiler unit is timed at 0.000112 msec
+18:21:10 Roll forward started
+18:21:10 Roll forward complete
+18:21:10 Checkpoint started
+18:21:10 Checkpoint finished, log reused
+18:21:10 HTTP/WebDAV server online at 8890
+18:21:10 Server online at 1111 (pid 1)
+18:27:21 Server received signal 15
+18:27:21 Initiating quick shutdown
+18:27:21 Server shutdown complete
+
+		Wed Aug 15 2018
+18:28:28 OpenLink Virtuoso Universal Server
+18:28:28 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+18:28:28 uses parts of OpenSSL, PCRE, Html Tidy
+18:28:28 Database version 3126
+18:28:28 SQL Optimizer enabled (max 1000 layouts)
+18:28:29 Compiler unit is timed at 0.000112 msec
+18:28:30 Roll forward started
+18:28:30 Roll forward complete
+18:28:30 Checkpoint started
+18:28:30 Checkpoint finished, log reused
+18:28:32 HTTP/WebDAV server online at 8890
+18:28:32 Server online at 1111 (pid 1)
+18:30:00 Server received signal 15
+18:30:00 Initiating quick shutdown
+18:30:00 Server shutdown complete
+
+		Wed Aug 15 2018
+18:30:06 OpenLink Virtuoso Universal Server
+18:30:06 Version 07.20.3215-pthreads for Linux as of Nov 15 2017
+18:30:06 uses parts of OpenSSL, PCRE, Html Tidy
+18:30:06 Database version 3126
+18:30:06 SQL Optimizer enabled (max 1000 layouts)
+18:30:07 Compiler unit is timed at 0.000115 msec
+18:30:08 Roll forward started
+18:30:08 Roll forward complete
+18:30:08 Checkpoint started
+18:30:08 Checkpoint finished, log reused
+18:30:08 HTTP/WebDAV server online at 8890
+18:30:08 Server online at 1111 (pid 1)
+18:41:45 Server received signal 15
+18:41:45 Initiating quick shutdown
+18:41:45 Server shutdown complete
+18:41:46 Unable to remove /usr/local/virtuoso-opensource/var/lib/virtuoso/db/virtuoso.lck (No such file or directory)
